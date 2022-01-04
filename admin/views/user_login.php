@@ -24,7 +24,7 @@
                         <div class="col-lg-12">
                             <div class="p-5">
                                 <div class="text-center">
-                                    <h1 class="h4 text-gray-900 mb-4">Welcome</h1>
+                                    <h1 class="h4 text-gray-900 mb-4">登 录</h1>
                                 </div>
                                 <form method="post" class="user" action="./index.php?action=login&s=<?= $admin_path_code ?>">
 									<?php if ($error_msg): ?>
